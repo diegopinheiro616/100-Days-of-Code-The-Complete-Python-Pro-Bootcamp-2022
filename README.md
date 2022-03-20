@@ -8,7 +8,7 @@ Dias 1 a 14 - Básico da linguagem Python;
 Dias 15 a 31 - Intermediário;
 Dias 32 a 40 - Intermediário +;
 Dias 41 a 44 - Fundamentos de Web (HTML e CSS);
-Dias 45 a 58 - Intermediário ++;
+Dias 45 a 58 - Intermediário + (parte 2 - integrando Python com HTML e CSS);
 Dias 59 a 70 - Avançado;
 Dias 71 a 80 - Data Science;
 Dias 81 a 100 - Projetos Portfólio (am andamento).
